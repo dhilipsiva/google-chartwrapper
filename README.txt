@@ -1,3 +1,5 @@
+Repository is archived because Google Charts was sunset a few years ago.
+
 ################################################################################
 #  GChartWrapper - v0.9
 #  Copyright (C) 2009  Justin Quick <justquick@gmail.com>
